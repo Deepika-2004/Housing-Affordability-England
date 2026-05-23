@@ -1,0 +1,282 @@
+area_code,area,segment
+E06000001,Hartlepool,Always affordable
+E06000002,Middlesbrough,Always affordable
+E06000003,Redcar and Cleveland,Always affordable
+E06000004,Stockton-on-Tees,Always affordable
+E06000005,Darlington,Always affordable
+E06000006,Halton,Always affordable
+E06000007,Warrington,Always affordable
+E06000008,Blackburn with Darwen,Always affordable
+E06000009,Blackpool,Always affordable
+E06000010,"Kingston upon Hull, City of",Always affordable
+E06000011,East Riding of Yorkshire,Always affordable
+E06000012,North East Lincolnshire,Always affordable
+E06000013,North Lincolnshire,Always affordable
+E06000014,York,Always affordable
+E06000015,Derby,Always affordable
+E06000016,Leicester,Always affordable
+E06000017,Rutland,Always affordable
+E06000018,Nottingham,Always affordable
+E06000019,"Herefordshire, County of",Always affordable
+E06000020,Telford and Wrekin,Always affordable
+E06000021,Stoke-on-Trent,Always affordable
+E06000022,Bath and North East Somerset,Deteriorating
+E06000023,"Bristol, City of",Deteriorating
+E06000024,North Somerset,Always affordable
+E06000025,South Gloucestershire,Always affordable
+E06000026,Plymouth,Always affordable
+E06000027,Torbay,Always affordable
+E06000030,Swindon,Always affordable
+E06000031,Peterborough,Always affordable
+E06000032,Luton,Always affordable
+E06000033,Southend-on-Sea,Always affordable
+E06000034,Thurrock,Always affordable
+E06000035,Medway,Always affordable
+E06000036,Bracknell Forest,Always affordable
+E06000037,West Berkshire,Always affordable
+E06000038,Reading,Deteriorating
+E06000039,Slough,Deteriorating
+E06000040,Windsor and Maidenhead,Deteriorating
+E06000041,Wokingham,Always affordable
+E06000042,Milton Keynes,Always affordable
+E06000043,Brighton and Hove,Deteriorating
+E06000044,Portsmouth,Always affordable
+E06000045,Southampton,Always affordable
+E06000046,Isle of Wight,Always affordable
+E06000047,County Durham,Always affordable
+E06000049,Cheshire East,Always affordable
+E06000050,Cheshire West and Chester,Always affordable
+E06000051,Shropshire,Always affordable
+E06000052,Cornwall,Always affordable
+E06000054,Wiltshire,Always affordable
+E06000055,Bedford,Always affordable
+E06000056,Central Bedfordshire,Always affordable
+E06000057,Northumberland,Always affordable
+E07000008,Cambridge,Deteriorating
+E07000009,East Cambridgeshire,Always affordable
+E07000010,Fenland,Always affordable
+E07000011,Huntingdonshire,Always affordable
+E07000012,South Cambridgeshire,Always affordable
+E07000032,Amber Valley,Always affordable
+E07000033,Bolsover,Always affordable
+E07000034,Chesterfield,Always affordable
+E07000035,Derbyshire Dales,Always affordable
+E07000036,Erewash,Always affordable
+E07000037,High Peak,Always affordable
+E07000038,North East Derbyshire,Always affordable
+E07000039,South Derbyshire,Always affordable
+E07000040,East Devon,Always affordable
+E07000041,Exeter,Deteriorating
+E07000042,Mid Devon,Always affordable
+E07000043,North Devon,Always affordable
+E07000044,South Hams,Always affordable
+E07000045,Teignbridge,Always affordable
+E07000046,Torridge,Always affordable
+E07000047,West Devon,Always affordable
+E07000061,Eastbourne,Always affordable
+E07000062,Hastings,Always affordable
+E07000063,Lewes,Always affordable
+E07000064,Rother,Always affordable
+E07000065,Wealden,Deteriorating
+E07000066,Basildon,Always affordable
+E07000067,Braintree,Always affordable
+E07000068,Brentwood,Always affordable
+E07000069,Castle Point,Deteriorating
+E07000070,Chelmsford,Always affordable
+E07000071,Colchester,Always affordable
+E07000072,Epping Forest,Deteriorating
+E07000073,Harlow,Always affordable
+E07000074,Maldon,Always affordable
+E07000075,Rochford,Always affordable
+E07000076,Tendring,Always affordable
+E07000077,Uttlesford,Always affordable
+E07000078,Cheltenham,Always affordable
+E07000079,Cotswold,Always affordable
+E07000080,Forest of Dean,Always affordable
+E07000081,Gloucester,Always affordable
+E07000082,Stroud,Always affordable
+E07000083,Tewkesbury,Always affordable
+E07000084,Basingstoke and Deane,Always affordable
+E07000085,East Hampshire,Always affordable
+E07000086,Eastleigh,Always affordable
+E07000087,Fareham,Always affordable
+E07000088,Gosport,Always affordable
+E07000089,Hart,Always affordable
+E07000090,Havant,Always affordable
+E07000091,New Forest,Always affordable
+E07000092,Rushmoor,Always affordable
+E07000093,Test Valley,Always affordable
+E07000094,Winchester,Always affordable
+E07000095,Broxbourne,Deteriorating
+E07000096,Dacorum,Deteriorating
+E07000098,Hertsmere,Improving
+E07000099,North Hertfordshire,Always affordable
+E07000102,Three Rivers,Deteriorating
+E07000103,Watford,Deteriorating
+E07000105,Ashford,Always affordable
+E07000106,Canterbury,Always affordable
+E07000107,Dartford,Always affordable
+E07000108,Dover,Always affordable
+E07000109,Gravesham,Always affordable
+E07000110,Maidstone,Always affordable
+E07000111,Sevenoaks,Deteriorating
+E07000112,Folkestone and Hythe,Always affordable
+E07000113,Swale,Always affordable
+E07000114,Thanet,Always affordable
+E07000115,Tonbridge and Malling,Deteriorating
+E07000116,Tunbridge Wells,Always affordable
+E07000117,Burnley,Always affordable
+E07000118,Chorley,Always affordable
+E07000119,Fylde,Always affordable
+E07000120,Hyndburn,Always affordable
+E07000121,Lancaster,Always affordable
+E07000122,Pendle,Always affordable
+E07000123,Preston,Always affordable
+E07000124,Ribble Valley,Always affordable
+E07000125,Rossendale,Always affordable
+E07000126,South Ribble,Always affordable
+E07000127,West Lancashire,Always affordable
+E07000128,Wyre,Always affordable
+E07000129,Blaby,Always affordable
+E07000130,Charnwood,Always affordable
+E07000131,Harborough,Always affordable
+E07000132,Hinckley and Bosworth,Always affordable
+E07000133,Melton,Always affordable
+E07000134,North West Leicestershire,Always affordable
+E07000135,Oadby and Wigston,Always affordable
+E07000136,Boston,Always affordable
+E07000137,East Lindsey,Always affordable
+E07000138,Lincoln,Always affordable
+E07000139,North Kesteven,Always affordable
+E07000140,South Holland,Always affordable
+E07000141,South Kesteven,Always affordable
+E07000142,West Lindsey,Always affordable
+E07000143,Breckland,Always affordable
+E07000144,Broadland,Always affordable
+E07000145,Great Yarmouth,Always affordable
+E07000146,King's Lynn and West Norfolk,Always affordable
+E07000147,North Norfolk,Always affordable
+E07000148,Norwich,Always affordable
+E07000149,South Norfolk,Always affordable
+E07000170,Ashfield,Always affordable
+E07000171,Bassetlaw,Always affordable
+E07000172,Broxtowe,Always affordable
+E07000173,Gedling,Always affordable
+E07000174,Mansfield,Always affordable
+E07000175,Newark and Sherwood,Always affordable
+E07000176,Rushcliffe,Always affordable
+E07000177,Cherwell,Always affordable
+E07000178,Oxford,Improving
+E07000179,South Oxfordshire,Always affordable
+E07000180,Vale of White Horse,Always affordable
+E07000181,West Oxfordshire,Always affordable
+E07000192,Cannock Chase,Always affordable
+E07000193,East Staffordshire,Always affordable
+E07000194,Lichfield,Always affordable
+E07000195,Newcastle-under-Lyme,Always affordable
+E07000196,South Staffordshire,Always affordable
+E07000197,Stafford,Always affordable
+E07000198,Staffordshire Moorlands,Always affordable
+E07000199,Tamworth,Always affordable
+E07000200,Babergh,Always affordable
+E07000202,Ipswich,Always affordable
+E07000203,Mid Suffolk,Always affordable
+E07000207,Elmbridge,Always affordable
+E07000208,Epsom and Ewell,Deteriorating
+E07000209,Guildford,Always affordable
+E07000210,Mole Valley,Deteriorating
+E07000211,Reigate and Banstead,Deteriorating
+E07000212,Runnymede,Always affordable
+E07000213,Spelthorne,Deteriorating
+E07000214,Surrey Heath,Always affordable
+E07000215,Tandridge,Improving
+E07000216,Waverley,Deteriorating
+E07000217,Woking,Deteriorating
+E07000218,North Warwickshire,Always affordable
+E07000219,Nuneaton and Bedworth,Always affordable
+E07000220,Rugby,Always affordable
+E07000221,Stratford-on-Avon,Always affordable
+E07000222,Warwick,Always affordable
+E07000223,Adur,Deteriorating
+E07000224,Arun,Always affordable
+E07000225,Chichester,Deteriorating
+E07000226,Crawley,Deteriorating
+E07000227,Horsham,Always affordable
+E07000228,Mid Sussex,Always affordable
+E07000229,Worthing,Always affordable
+E07000234,Bromsgrove,Always affordable
+E07000235,Malvern Hills,Always affordable
+E07000236,Redditch,Always affordable
+E07000237,Worcester,Always affordable
+E07000238,Wychavon,Always affordable
+E07000239,Wyre Forest,Always affordable
+E07000240,St Albans,Deteriorating
+E07000241,Welwyn Hatfield,Always affordable
+E07000242,East Hertfordshire,Always affordable
+E07000243,Stevenage,Always affordable
+E08000001,Bolton,Always affordable
+E08000002,Bury,Always affordable
+E08000003,Manchester,Deteriorating
+E08000004,Oldham,Always affordable
+E08000005,Rochdale,Always affordable
+E08000006,Salford,Always affordable
+E08000007,Stockport,Always affordable
+E08000008,Tameside,Always affordable
+E08000009,Trafford,Always affordable
+E08000010,Wigan,Always affordable
+E08000011,Knowsley,Always affordable
+E08000012,Liverpool,Always affordable
+E08000013,St. Helens,Always affordable
+E08000014,Sefton,Always affordable
+E08000015,Wirral,Always affordable
+E08000017,Doncaster,Always affordable
+E08000018,Rotherham,Always affordable
+E08000021,Newcastle upon Tyne,Always affordable
+E08000022,North Tyneside,Always affordable
+E08000023,South Tyneside,Always affordable
+E08000024,Sunderland,Always affordable
+E08000025,Birmingham,Always affordable
+E08000026,Coventry,Always affordable
+E08000027,Dudley,Always affordable
+E08000028,Sandwell,Always affordable
+E08000029,Solihull,Always affordable
+E08000030,Walsall,Always affordable
+E08000031,Wolverhampton,Always affordable
+E08000032,Bradford,Always affordable
+E08000033,Calderdale,Always affordable
+E08000034,Kirklees,Always affordable
+E08000035,Leeds,Always affordable
+E08000036,Wakefield,Always affordable
+E08000037,Gateshead,Always affordable
+E09000002,Barking and Dagenham,Improving
+E09000003,Barnet,Always high pressure
+E09000004,Bexley,Deteriorating
+E09000005,Brent,Improving
+E09000006,Bromley,Deteriorating
+E09000007,Camden,Improving
+E09000008,Croydon,Deteriorating
+E09000009,Ealing,Always high pressure
+E09000010,Enfield,Improving
+E09000011,Greenwich,Deteriorating
+E09000012,Hackney,Always high pressure
+E09000013,Hammersmith and Fulham,Always high pressure
+E09000014,Haringey,Improving
+E09000015,Harrow,Improving
+E09000016,Havering,Deteriorating
+E09000017,Hillingdon,Deteriorating
+E09000018,Hounslow,Deteriorating
+E09000019,Islington,Improving
+E09000020,Kensington and Chelsea,Improving
+E09000021,Kingston upon Thames,Improving
+E09000022,Lambeth,Always high pressure
+E09000023,Lewisham,Improving
+E09000024,Merton,Deteriorating
+E09000025,Newham,Always high pressure
+E09000026,Redbridge,Improving
+E09000027,Richmond upon Thames,Always high pressure
+E09000028,Southwark,Deteriorating
+E09000029,Sutton,Deteriorating
+E09000030,Tower Hamlets,Improving
+E09000031,Waltham Forest,Improving
+E09000032,Wandsworth,Always high pressure
+E09000033,Westminster,Improving
