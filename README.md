@@ -2,7 +2,9 @@
 # England Housing Affordability Analysis (2019–2025)
 
 **Tools:** Python · pandas · scikit-learn · matplotlib · seaborn · Power BI
+
 **Data:** ONS Private Rental Market Statistics · VOA Rental Statistics · ASHE (ONS)
+
 **Coverage:** 281 English local authorities · 2019–2025
 
 ---
