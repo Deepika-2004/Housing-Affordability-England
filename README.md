@@ -16,8 +16,8 @@ Analyses private rental affordability for **individual renters** across 281 Engl
 ## Key Findings
 
 - **2023 structural break:** share of LAs above the 30% threshold nearly doubled in one year (6.8% → 17.1%), driven by the post-pandemic rent surge
-- **38 LAs are deteriorating** — affordable in 2019 but worsening, including Bristol, Reading, Bath, and Manchester (first major Northern city to tip in 2024)
-- Only **8 LAs (3%)** have been persistently unaffordable — the crisis is spreading, not concentrated
+- **38 LAs are deteriorating** - affordable in 2019 but worsening, including Bristol, Reading, Bath, and Manchester (first major Northern city to tip in 2024)
+- Only **8 LAs (3%)** have been persistently unaffordable - the crisis is spreading, not concentrated
 - Linear trend forecasts flag at-risk LAs projected to cross the threshold by 2028
 
 ---
